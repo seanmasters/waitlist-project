@@ -1,0 +1,8 @@
+{
+  "name": "waitlist-project",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
